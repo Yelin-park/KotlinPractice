@@ -1,0 +1,11 @@
+package Part1_코틀린기초문법살펴보기
+
+/*
+[소스 파일 여러 개로 분리하기]
+*/
+fun main(args: Array<String>): Unit {
+    val a = 20
+    val b = -30
+
+    println(max(a, abs(b)))
+}
