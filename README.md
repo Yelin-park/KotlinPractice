@@ -94,3 +94,9 @@
 ### 3. <a href="https://github.com/Yelin-park/KotlinPractice/tree/main/src/main/kotlin/part3_%EC%BD%94%ED%8B%80%EB%A6%B0%EA%B3%A0%EA%B8%89%EB%AC%B8%EB%B2%95%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0">Part3_코틀린 고급 문법</a>
 - 객체 선언
 - 동반자 객체
+- inline 함수
+- const
+- lateinit
+- Nullable 리시버
+- 동반자 객체의 확장 함수
+- 확장 함수의 리시버 타입이 상속 관계에 있을 때
