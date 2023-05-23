@@ -1,4 +1,4 @@
-package Part4_코틀린표준라이브러리살펴보기.ex_comparable_interface
+package part4_코틀린표준라이브러리살펴보기.ex_comparable_interface
 
 /*
 [Comparable 인터페이스: 클래스를 비교 가능하게 만들기]

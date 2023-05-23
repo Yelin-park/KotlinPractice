@@ -1,4 +1,4 @@
-package Part4_코틀린표준라이브러리살펴보기.ex_pair
+package part4_코틀린표준라이브러리살펴보기.ex_pair
 
 /*
 [Pair 클래스: 두 변수를 하나로 묶기]

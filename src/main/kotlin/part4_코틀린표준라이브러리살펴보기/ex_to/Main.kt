@@ -1,4 +1,4 @@
-package Part4_코틀린표준라이브러리살펴보기.ex_to
+package part4_코틀린표준라이브러리살펴보기.ex_to
 
 /*
 [to 확장 함수: 두 값을 간단히 Pair로 묶기]

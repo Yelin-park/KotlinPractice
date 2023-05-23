@@ -1,4 +1,4 @@
-package Part4_코틀린표준라이브러리살펴보기.ex_triple
+package part4_코틀린표준라이브러리살펴보기.ex_triple
 
 /*
 [Triple 클래스: 세 변수를 하나로 묶기]

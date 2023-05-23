@@ -1,4 +1,4 @@
-package Part4_코틀린표준라이브러리살펴보기.ex_closed_range_interface
+package part4_코틀린표준라이브러리살펴보기.ex_closed_range_interface
 
 /*
 [ClosedRange 인터페이스: 닫힌 구간을 표현하는 인터페이스]

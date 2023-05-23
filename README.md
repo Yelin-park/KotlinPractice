@@ -133,7 +133,7 @@
 - 위임된 프로퍼티
 - 클래스 위임
 
-### 4. <a href="#">Part4_코틀린 표준 라이브러리 살펴보기</a>
+### 4. <a href="https://github.com/Yelin-park/KotlinPractice/tree/main/src/main/kotlin/Part4_%EC%BD%94%ED%8B%80%EB%A6%B0%ED%91%9C%EC%A4%80%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0">Part4_코틀린 표준 라이브러리 살펴보기</a>
 - Pair 클래스: 두 변수를 하나로 묶기
 - to 확장 함수: 두 값을 간다히 Pair로 묶기
 - Triple 클래스: 세 변수를 하나로 묶기
