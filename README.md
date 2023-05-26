@@ -141,3 +141,6 @@
 - ClosedRange 인터페이스: 닫힌 구간을 표현하는 인터페이스
 - Iterable 인터페이스: 클래스가 반복자를 지원하도록 하기
 - Progression과 관련된 함수
+- 코틀린의 컬렉션
+- Collection 인터페이스 살펴보기
+- List 인터페이스 살펴보기
