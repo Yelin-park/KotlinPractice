@@ -45,6 +45,7 @@ package part4_코틀린표준라이브러리살펴보기.ex_mutable_collection_i
 * */
 
 fun main() {
+    // Set과 Map은 mutableSetOf, mutableMapOf 함수를 호출해야함
     val mutableList: MutableCollection<Int> = mutableListOf(1, 2, 4, 2, 3, 2, 5)
     println(mutableList)
 

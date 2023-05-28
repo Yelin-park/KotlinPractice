@@ -17,12 +17,18 @@ enum class Mode{
 
 fun main() {
     val shapeMode: Mode = Mode.SHAPE
-    println(shapeMode.name)
-    println(shapeMode.ordinal)
+    println(shapeMode.name) // SHAPE
+    println(shapeMode.ordinal) // 2
 
     val modes:Array<Mode> = Mode.values()
     for(mode: Mode in modes)
         println(mode)
+    /*
+    SELECTION
+    PEN
+    SHAPE
+    ERASER
+     */
 
-    println(Mode.valueOf("PEN").ordinal)
+    println(Mode.valueOf("PEN").ordinal) // 1
 }
