@@ -152,3 +152,7 @@
 - MutableListIterator 인터페이스 살펴보기
 - MutableSet 인터페이스 살펴보기
 - MutableMap 인터페이스 살펴보기
+- Sequence 인터페이스 살펴보기
+- 컬렌션 원소 타입 변환하기
+- 컬렉션 중 원하는 원소 걸러내기
+- 컬렉션 정렬하기
